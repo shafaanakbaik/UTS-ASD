@@ -1,5 +1,5 @@
 ======================================================================
-               README - PROJECT UTS ALGORITMA & STRUKTUR DATA
+           PROJECT UTS ALGORITMA & STRUKTUR DATA
 ======================================================================
 
 1. IDENTITAS MAHASISWA
